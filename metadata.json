@@ -1,0 +1,8 @@
+{
+  "name": "Ukweli AI - Kenyan Scam & Fraud Detector",
+  "description": "Fast, local scam and fake news detector powered by Gemma and Gemini via Google AI Studio. Protects Kenyans against M-Pesa fraud, predatory loan apps, and WhatsApp disinformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
